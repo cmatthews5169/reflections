@@ -1,3 +1,7 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 	As you change your files the staging area is where these changes are ready to be commited to the repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	You can add and remove files from the staging area so that only the changes to a specific file are submitted with that commit. And other unrelated changes that you were working on in another file don't get submitted along with that commit.
