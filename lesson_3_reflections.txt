@@ -19,3 +19,7 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 	
 	Sharing files manually. You would never have to worry about anyone elses changes affecting yours as it would only be your changes included when sending them the project.  It would be harder to compare changes made to the project by two people or to see the history of changes that happened.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	
+	If you wanted to have your changes pulled into the master branch of a project that you are collaborating on, it allows you to work on this feature separately while still working on the master branch of the project. Editing directly to the master allows you to work on regular parts of the project.
