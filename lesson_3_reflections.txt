@@ -6,3 +6,8 @@ Why might you want to always pull changes manually rather than having Git automa
 	
 	If you were collaborating with others online, someone might have commited changes that you did not want included on your local code yet. 
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	
+	A fork is essentially a clone performed on github servers. You would use this when you wanted to give credit to the original author.
+	A clone allows you to copy either a remote or local repository to create another local copy. You could use this copy to create major changes to a project where most of the code will be rewritten but still referenced for what might be required. 
+	A branch is when you want to create a different path for a project. It can be used for smaller feature changes or additions that you would not want to include in the main branch. 
